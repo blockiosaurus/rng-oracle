@@ -1,0 +1,50 @@
+					$CRUMBS KENO
+
+We want to develop tools & games for our community and the web3 ecosystem. 
+While we build out our Brand, we would like to present $Crumbs Keno v1. 
+$CK will be the first Crypto Keno game built on the Solana Platform. 
+
+Games will be played once daily for the first week. This will allow us
+to make any changes/fixes to the platform. Week 2, games will played twice
+daily. Gametimes will be split with a 12hr. timespan to allow for all members  
+to have a chance to play within thier timezone. Week 3 contiues with 3 games
+daily, with an 8 hour timespan in between each game. We built our own server
+to run $CK, so progression will be open as we continue to build.
+
+Since this is V1 of our game, we are only allowing $Crumbs to be used at this
+time. Our plan is allow our community members to play the game first and give
+us feedback prior to offical launch. We will make an announcment when we are
+ready to invite members to play. 4x $Crumbs will be allotted per Breadhead
+HOLDER who registers to test the game. All $Crumbs holders will be allowed to
+play. $Crumbs will be recieved if you win your game. 1 $Crumb = 1 $Crumb 
+
+				    How To Play
+
+Each Keno slip contains numbers 1-80.
+Fill out KENO slip w/ the numbers/spots you want to play. (Max. 5 numbers)
+Choose how many $Crumbs you want to risk
+Tickets cannot be voided once approved! Please be sure to check your ticket.
+A win occurs when some or all of your numbers (spots) are matched 
+
+					Odds per 1x $Crumbs 
+1 Spot Game - Match 1 = (x1) 
+2 Spot Game - Match 2 = (x2)
+3 Spot Game - Match 2 = (x1) Match 3 = (x5)
+4 Spot Game - Match 2 = (x1) Match 3 = (x2) Match 4 = (x10)
+5 Spot Game - Match 3 = (x1) Match 4 = (x3) Match 5 = (x30)
+More Game spots will be added as we progress. 
+
+When the game is ready to Launch, we plan on allowing other tokens/coins to be 
+accepted for play. There will be some cost to run & maintain the game server, 
+but all other proceeds will go to fund the BreadBox DAO. We believe this we go
+along way in building our Brand and bringing value to ALL Genesis Breadheads. 
+Stay tuned for more updates coming soon.  
+
+
+
+ 
+		
+
+
+
+
